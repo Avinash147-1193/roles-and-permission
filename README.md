@@ -1,8 +1,13 @@
 "# roles-and-permission" 
 
 Sample DB import 
-  1.make new db role_based_access_control 
-  2. execute 
+  1. make new db role_based_access_control 
+  2. RUN schema-sample.sql to import dummy roles and permissions
+  
+  USE:
+  username: avinash1@company.com , password: 123456
+  username: avinash2@company.com , password: 123456
+for accessing dummy users, and in index see their role and permissions.
 
 -------------DB STRUCTURE---------------
 
